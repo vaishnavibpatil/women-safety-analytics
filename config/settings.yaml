@@ -1,0 +1,17 @@
+twilio:
+  account_sid: 'ACc9e6488008571517e5ad4a3ec685139b'
+  auth_token: '4363f69c503cb472c807111948013bb5'
+  from_phone: '+13374695286'
+  RECIPIENT_PHONE: "8080323464" 
+
+  ip_api:
+  base_url: 'http://ip-api.com/json/'
+
+  google_maps:
+  base_url: 'https://www.google.com/maps/embed/v1/place'
+  api_key: 'AIzaSyDe4bZHfW_DkIDFM_CtJ6AUeXp5FSW3v-o'
+  base_url_simple: 'https://www.google.com/maps?q='
+
+  
+
+
